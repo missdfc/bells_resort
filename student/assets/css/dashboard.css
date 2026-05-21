@@ -1,0 +1,54 @@
+/* MAIN CONTENT */
+
+.main-content{
+    flex:1;
+    background:#f4f7fc;
+}
+
+/* NAVBAR */
+
+.navbar{
+    height:80px;
+    background:white;
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    padding:0 30px;
+
+    box-shadow:0 2px 5px rgba(0,0,0,0.1);
+}
+
+.nav-left h2{
+    color:#111827;
+}
+
+.student-info{
+    background:#2563eb;
+    color:white;
+
+    padding:10px 20px;
+
+    border-radius:10px;
+}
+
+/* DASHBOARD CONTENT */
+
+.dashboard-content{
+    padding:30px;
+}
+
+/* WELCOME BOX */
+
+.welcome-box{
+    margin-bottom:30px;
+}
+
+.welcome-box h1{
+    margin-bottom:10px;
+}
+
+.welcome-box p{
+    color:gray;
+}
