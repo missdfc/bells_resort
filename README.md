@@ -1,1 +1,1 @@
-former resort website converted into fully functional university portal websit
+former resort website converted into fully functional university portal website
